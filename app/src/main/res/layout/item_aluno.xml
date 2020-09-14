@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/item_aluno_nome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="@string/nome_menu_lista"
+        android:textSize="24sp"
+        android:textColor="#2D0771"/>
+
+    <TextView
+        android:id="@+id/item_aluno_telefone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+
+        android:layout_marginBottom="2dp"
+        android:layout_marginEnd="16dp"
+        android:text="@string/telefone_menu_lista"
+
+        android:textColor="#6519ED"
+        />
+
+    <TextView
+        android:id="@+id/item_aluno_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:textColor="#6519ED"
+        android:text="@string/email_menu_lista" />
+
+    <TextView
+        android:id="@+id/item_aluno_materia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="16dp"
+        android:textColor="#6519ED"
+        android:text="@string/materia_menu_lista" />
+
+</LinearLayout>

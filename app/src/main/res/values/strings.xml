@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="nome">Nome *</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">Email</string>
+    <string name="materia">Materia</string>
+    <string name="salvar_aluno">Salvar</string>
+    <string name="remover_aluno">Remover</string>
+    <string name="sobre_aplicativo">Sobre</string>
+    <string name="nome_menu_lista">Alex</string>
+    <string name="telefone_menu_lista">11965823458</string>
+    <string name="email_menu_lista">isaac@gmail.com</string>
+    <string name="materia_menu_lista">biologia</string>
+</resources>
